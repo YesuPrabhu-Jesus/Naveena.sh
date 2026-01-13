@@ -7,3 +7,5 @@ Y= 45269+569558
 
 # Substraction
 X=569856-26598
+
+# Multipication
